@@ -5,5 +5,8 @@ public class Tets {
         //@SuppressWarnings("unchecked")
         Tuple2<String, String>[] tuple2s = new Tuple2[1];
         int[] a = new int[5];
+
+
+        System.out.println("hello, world");
     }
 }
